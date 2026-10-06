@@ -12,3 +12,6 @@ package-lock.json
 
 # Local private persona instructions
 system_instruction.txt
+
+.env
+auth_info_baileys/

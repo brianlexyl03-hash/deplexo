@@ -46,7 +46,7 @@ try {
 
 async function connectToWhatsApp() {
     // Load auth state to persist the session
-    const { state, saveCreds } = await useMultiFileAuthState('auth_info_baileys');
+    const { state, saveCreds } = await useMultiFileAuthState('/data/auth_info_baileys');
 
     // Fetch the latest WhatsApp Web version to avoid 405 WebSocket handshake issues
     const { version, isLatest } = await fetchLatestBaileysVersion();
