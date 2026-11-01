@@ -52,3 +52,12 @@ The package currently exposes a single `start` script that runs `index.js`. Auto
 ## License
 
 See [LICENSE](LICENSE).
+
+## Contact and collaboration
+
+Software engineer open to thoughtful collaboration, engineering discussions and project contributions.
+
+- Email: [brianlexyl03@gmail.com](mailto:brianlexyl03@gmail.com)
+- WhatsApp: [+254 769 485 902](https://wa.me/254769485902)
+
+Please include the repository, issue or feature area in your message.
